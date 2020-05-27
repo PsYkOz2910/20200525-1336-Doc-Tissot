@@ -8,3 +8,5 @@
 
 ## 26.05.20
 - Développement de l'import des CSV
+
+## 27.05.20
