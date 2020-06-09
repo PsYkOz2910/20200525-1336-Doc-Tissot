@@ -6,8 +6,10 @@
 - Création du planning
 - Création de la base de données et développement de la connection entre C# et la base de données
 
-
-
+Compte base de donnée :
+  - username : tissott
+  - password : Super
+  
 ## 26.05.20
 - Développement de l'import des CSV
 - Modification du champ eGrid de la table cadparcellemensu en unique pour éviter les parcelle a double dans la base de données
@@ -42,7 +44,8 @@
 - Commencement de la documentaion Utilisateur
 Je n'avais pas commencer avant du a mon acienne vue très médiocre
 ## 5.06.20
-- Correction de bug et mise en place de MessageBox
+- Ajout de la fonctionnalité pour modifier l'état des ordres
+- Correction de bug et mise en place des MessageBox
 ## 8.06.20
-
+- 
 ## 9.06.20
