@@ -15,7 +15,7 @@ Compte base de donnée :
 - Modification du champ eGrid de la table cadparcellemensu en unique pour éviter les parcelle a double dans la base de données
 
 ## 27.05.20
--Développement de l'export en format CSV
+- Développement de l'export en format CSV
 - Réalisation du MCD
 
 ![Resa database v1](/MCD.PNG)
@@ -47,5 +47,8 @@ Je n'avais pas commencer avant du a mon acienne vue très médiocre
 - Ajout de la fonctionnalité pour modifier l'état des ordres
 - Correction de bug et mise en place des MessageBox
 ## 8.06.20
-- 
+- Finalisation de l'application C#
+- A partir de 10:00 je travail uniquement sur la documentaion
 ## 9.06.20
+- Finalisation de la documentaion
+- Création des dossier pour l'envoie de mon travail
