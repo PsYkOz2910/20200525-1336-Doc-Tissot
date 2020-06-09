@@ -33,8 +33,15 @@
 ## 3.06.20
 - Mise en place des filtre pour les parcelles
 - Grosse refonte de la page d'acceuil
+
+![Resa database v1](/Acceuil.PNG)
+
 ## 4.06.20
 - Mise en place de la modification des parcelles
+- Commencement de la documentaion Utilisateur
+Je n'avais pas commencer avant du a mon acienne vue très médiocre
 ## 5.06.20
+
 ## 8.06.20
+
 ## 9.06.20
