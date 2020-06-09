@@ -28,6 +28,7 @@
 ## 29.05.20
 - Ajout de la selection des parcelles
 - Ajout de la création d'ordres
+
 ## 2.06.20
 - Visualisation des ordres (Requête sql avec jointure)
 ## 3.06.20
@@ -41,7 +42,7 @@
 - Commencement de la documentaion Utilisateur
 Je n'avais pas commencer avant du a mon acienne vue très médiocre
 ## 5.06.20
-
+- Correction de bug et mise en place de MessageBox
 ## 8.06.20
 
 ## 9.06.20
